@@ -58,7 +58,8 @@
     "watch:labextension": "jupyter labextension watch ."
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.0.0"
+    "@jupyterlab/application": "^4.0.1",
+    "@jupyterlab/apputils": "^4.1.1"
   },
   "devDependencies": {
     "@jupyterlab/builder": "^4.0.0",
@@ -98,7 +99,7 @@
     "extension": true,
     "outputDir": "plotly_extension/labextension",
     "_build": {
-      "load": "static/remoteEntry.0b96493d9ed86d539e1a.js",
+      "load": "static/remoteEntry.aae7773b4b8c5646b97b.js",
       "extension": "./extension",
       "style": "./style"
     }

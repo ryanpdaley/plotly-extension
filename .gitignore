@@ -2,3 +2,4 @@ node_modules
 .yarn/cache
 .DS_Store
 plotly_extension/labextension/static/*
+plotly_extension/__pycache__/*
