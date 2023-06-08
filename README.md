@@ -11,8 +11,10 @@ Intermediate Developer Assignment for Plotly
 
 To install the extension, execute:
 
+_For macOS, switch `pip` to `pip3`_
+
 ```bash
-pip install plotly_extension
+pip install plotly_extension (or pip3 install plotly_extension)
 ```
 
 ## Uninstall
