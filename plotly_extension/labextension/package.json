@@ -101,7 +101,7 @@
     "extension": true,
     "outputDir": "plotly_extension/labextension",
     "_build": {
-      "load": "static/remoteEntry.5e953cfb27c0ceeb155b.js",
+      "load": "static/remoteEntry.0b16c09ca2d7db293a40.js",
       "extension": "./extension",
       "style": "./style"
     }
