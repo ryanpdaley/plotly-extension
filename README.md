@@ -2,6 +2,8 @@
 
 Intermediate Developer Assignment for Plotly
 
+<img width="948" alt="Screenshot 2023-06-08 at 2 45 40 PM" src="https://github.com/ryanpdaley/plotly-extension/assets/5003768/d7b7cd19-4a10-4aca-a74f-57ad11a29aaf">
+
 ## Requirements
 
 - JupyterLab >= 4.0.0
