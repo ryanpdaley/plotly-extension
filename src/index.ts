@@ -6,7 +6,7 @@ import {
 import { ICommandPalette, MainAreaWidget } from '@jupyterlab/apputils';
 import { reactIcon } from '@jupyterlab/ui-components';
 import { ILauncher } from '@jupyterlab/launcher';
-import { PlotlyWidget } from './plotly';
+import { PlotlyWidget } from './PlotlyWidget';
 
 /**
  * Initialization data for the plotly-extension extension.

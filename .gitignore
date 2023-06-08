@@ -3,3 +3,5 @@ node_modules
 .DS_Store
 plotly_extension/labextension/static/*
 plotly_extension/__pycache__/*
+coverage/*
+lib/*
