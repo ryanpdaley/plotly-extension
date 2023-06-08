@@ -1,6 +1,5 @@
 # plotly_extension
 
-[![Github Actions Status](https://github.com/ryanpdaley/plotly-extension/workflows/Build/badge.svg)](https://github.com/ryanpdaley/plotly-extension/actions/workflows/build.yml)
 Intermediate Developer Assignment for Plotly
 
 ## Requirements
@@ -10,16 +9,16 @@ Intermediate Developer Assignment for Plotly
 ## Install
 
 To install the extension, execute:
-
-_For macOS, switch `pip` to `pip3`_
+**For macOS, switch `pip` to `pip3`**
 
 ```bash
-pip install plotly_extension (or pip3 install plotly_extension)
+pip install plotly_extension
 ```
 
 ## Uninstall
 
 To remove the extension, execute:
+**For macOS, switch `pip` to `pip3`**
 
 ```bash
 pip uninstall plotly_extension
